@@ -40,6 +40,8 @@ REMOVE_COMPONENTS = jsondecode(str);
 
 %%      Input variables
 
+%kabdhsdbhjsdbfhj
+
 %Directories-------
 FILEPATH = 'D:\giorg\Documents\MATLAB\EEGLAB\ProcessData\PreProcessICA'; %With NO ICA
 %FILEPATH = 'D:\giorg\Documents\MATLAB\EEGLAB\ProcessData\AFTERICA\PreProcess\RenamedForScript' %With  ICA
